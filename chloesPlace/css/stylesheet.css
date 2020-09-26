@@ -1,0 +1,66 @@
+html{
+    background-color: black;
+}
+
+nav div {
+    background-color: pink;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px0;
+    padding-top: 7px;
+    padding-bottom: 10px;
+}
+
+nav div a:hover{
+    border-radius: 10px;
+    background-clip: padding-box;
+    color: antiquewhite;
+    transition-duration: 0,5s;
+    transition-delay: 0s;
+}
+
+.thatA:hover{
+    color: pink;
+}
+
+.thatA{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+nav div a {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+    color: black;
+    text-decoration: none;
+}
+
+article{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30;
+    font-weight: 800;
+    color: beige;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 27;
+    font-weight: 700;
+    color: beige;
+}
